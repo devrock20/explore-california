@@ -1,3 +1,13 @@
-*.txt
-#comment
+
+#Comment
+tempfile.txt
+tempfile2.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assests/photoshop
+assests/videos/
+!assests/videos/tour_*.mp4
 
